@@ -1,0 +1,12 @@
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Release\InfraData.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Release\InfraData.pdb
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Release\Dapper.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Release\EntityFramework.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Release\Domain.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Release\Domain.pdb
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Release\InfraData.csprojAssemblyReference.cache
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Release\InfraData.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Release\InfraData.csproj.CopyComplete
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Release\InfraData.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Release\InfraData.pdb

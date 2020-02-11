@@ -1,0 +1,57 @@
+<!--
+  Generated template for the AcordoDetalhesPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>Resumo de Acordos</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+
+<ion-content   style="margin-top:auto">
+
+        <ion-grid style="background-color: darkcyan">
+          <ion-row>
+            <ion-col col-8></ion-col>
+            <ion-col col-3><button ion-button (click)="obterdados()" class="buttonIon">Atualizar</button></ion-col>
+          </ion-row>
+        </ion-grid>
+
+    <ion-card *ngIf="objAcordo">
+
+      <ion-item class="item">
+          <ion-card-title class="card-title-md" style="background-color:darkcyan">
+              <h2 style="text-align: center; color:rgb(255, 255, 255); padding: 1px">{{objAcordo.Empresa}}</h2>
+          </ion-card-title>
+                  <hr>
+                  <h2><strong>Valor Mensal:</strong></h2>
+                  <strong style="color:darkcyan; font-size: 20px">R${{objAcordo.ValorMes}}</strong>
+                  <br>
+                  <br>
+                  <h4><strong>-Quantidade de acordos este mês: </strong>
+                  <strong style="color:darkcyan; font-size: 20px">{{objAcordo.QuantidadeMes}}</strong></h4>
+                  <br>
+                  <hr>
+                  <h2><strong>Valor Hoje: </strong></h2>
+                  <strong style="color:darkcyan; font-size: 20px">R$ {{objAcordo.ValorHoje}}</strong>
+                  <br>
+                  <br>
+                  <h4><strong>-Quantidade de acordos hoje: </strong><strong style="color:darkcyan; font-size: 20px">{{objAcordo.QuantidadeHoje}}</strong></h4>
+                  <br>
+                  <hr>
+      </ion-item>
+      <!-- <ion-item style="margin-left:190px;">
+          <button ion-button default color="secondary" (click)="obterdados()" round style="text-align:left">Atualizar</button>
+      </ion-item> -->
+
+
+    </ion-card>
+
+</ion-content>
+
+
+

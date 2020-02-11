@@ -1,0 +1,10 @@
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\bin\Release\Domain.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\bin\Release\Domain.pdb
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\bin\Release\Dapper.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\bin\Release\EntityFramework.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\obj\Release\Domain.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\obj\Release\Domain.pdb
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\Domain\obj\Release\Domain.csprojAssemblyReference.cache

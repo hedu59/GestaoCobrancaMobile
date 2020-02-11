@@ -1,0 +1,12 @@
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Debug\InfraData.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Debug\InfraData.pdb
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Debug\Dapper.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Debug\EntityFramework.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Debug\Domain.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\bin\Debug\Domain.pdb
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Debug\InfraData.csprojAssemblyReference.cache
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Debug\InfraData.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Debug\InfraData.csproj.CopyComplete
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Debug\InfraData.dll
+C:\Users\Carlos Eduardo\Source\Repos\ApiGestaoMobile\InfraData\obj\Debug\InfraData.pdb

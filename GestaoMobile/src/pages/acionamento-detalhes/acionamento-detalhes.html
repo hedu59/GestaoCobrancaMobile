@@ -1,0 +1,63 @@
+<ion-header>
+    <ion-navbar>
+      <ion-title>Acionamento por Operador</ion-title>
+    </ion-navbar>
+  </ion-header>
+
+
+
+  <ion-content  >
+
+
+      <ion-grid style="background-color: darkcyan">
+          <ion-row>
+            <ion-col col-8></ion-col>
+            <ion-col col-3><button ion-button (click)="obterdados()" class="buttonIon">Atualizar</button></ion-col>
+          </ion-row>
+        </ion-grid>
+
+
+            <ion-item *ngIf="objAcionamento"  >
+
+                <ion-grid style="background-color: darkcyan; color:white">
+                    <ion-row>
+
+                      <ion-col col-8>{{objAcionamento.Descricao}}</ion-col>
+                    </ion-row>
+                    <ion-row>
+                        <ion-col col-3>TOTAL: <strong>{{objAcionamento.QuantidadeTotal}}</strong></ion-col>
+                    </ion-row>
+                  </ion-grid>
+
+
+                 <!-- <div >
+              <ion-grid>
+                <ion-row style="font-size:20px">
+                    <ion-col col-9>
+                     {{objAcionamento.Descricao}}
+                     </ion-col>
+                     <ion-col col-3>
+                        <button ion-button default color="secondary" (click)="obterdados()" round><ion-icon name="md-refresh"></ion-icon></button>
+                     </ion-col>
+                </ion-row>
+                <ion-row style="font-size:20px">
+                    <ion-col col-8>
+                        TOTAL:  <strong>{{objAcionamento.QuantidadeTotal}}</strong>
+                    </ion-col>
+
+                </ion-row>
+              </ion-grid>
+            </div> -->
+            </ion-item>
+                <ion-item *ngIf="objAcionamento">
+                  <ion-grid *ngFor="let item of objAcionamento.DescricaoGeral">
+                      <ion-row>
+                            <ion-col col-10>{{item.Usuario}}</ion-col>
+                            <ion-col col-2><strong style="font-size:18px">({{item.QuantidadeUsuario}})</strong></ion-col>
+                            <hr>
+                      </ion-row>
+                    </ion-grid>
+            </ion-item>
+
+
+  </ion-content>
